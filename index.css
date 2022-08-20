@@ -1,0 +1,73 @@
+@font-face {
+    font-family: rl;
+    src: url("Raleway-light.ttf");
+}
+body{
+   
+   
+    text-align: left;
+    
+}
+.all{
+    
+    color:white;
+    background-color: #1F2937;
+    border:5px solid grey;
+    border-radius: 10px;
+   margin-right: auto;
+   margin-left: auto;
+   width: 550px;
+   line-height: 50px;
+   margin-top: 50px;
+   padding-left: 30px;
+   
+   
+}
+span{
+    color:#6AA84F
+}
+p{
+    padding-top: 0px;
+    font-size: 20px;
+    font-family: rl;
+    padding-bottom: 0px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    padding-bottom: 1px;
+}
+.pswd{
+    display: inline;
+    width:300px;
+    line-height: 20px;
+    background-color: #273549;
+    color: #4ADF86;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:20px;
+    border-radius: 5px;
+    padding: 10px 60px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+button{
+    margin-bottom: 50px;
+    background-color: #6AA84F;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    color: white;
+    font-size:20px ;
+    
+}
+hr{
+display: block; 
+height: 1px;
+border: 0;
+border-top: 1px solid grey;
+margin: 0px 20px 10px 10px; padding: 0; 
+   
+}
